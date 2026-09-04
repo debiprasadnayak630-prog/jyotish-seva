@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+<rect width="600" height="600" rx="40" fill="#160e2e"/>
+<g fill="#211640" stroke="#e7b957" stroke-width="4">
+<rect x="100" y="100" width="400" height="400" rx="12"/>
+<path d="M100 100L500 500M500 100L100 500M300 100V500M100 300H500"/>
+<path d="M300 100L100 300L300 500L500 300Z"/>
+</g>
+<g fill="#fff2c9" font-family="serif" font-size="24" text-anchor="middle">
+<text x="300" y="140">1</text><text x="400" y="190">2</text><text x="450" y="300">3</text>
+<text x="400" y="410">4</text><text x="300" y="465">5</text><text x="195" y="410">6</text>
+<text x="150" y="300">7</text><text x="195" y="190">8</text>
+</g>
+<text x="300" y="570" fill="#e7b957" font-size="28" text-anchor="middle" font-family="serif">JANMA KUNDLI</text>
+</svg>
