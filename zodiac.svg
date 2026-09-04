@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+<rect width="600" height="600" rx="40" fill="#130d29"/>
+<circle cx="300" cy="300" r="220" fill="none" stroke="#e7b957" stroke-width="5"/>
+<circle cx="300" cy="300" r="145" fill="none" stroke="#8d62e8" stroke-width="3"/>
+<circle cx="300" cy="300" r="70" fill="none" stroke="#e7b957" stroke-width="3"/>
+<g stroke="#e7b957" stroke-width="2" opacity=".85">
+<path d="M300 80V520M80 300H520M144 144L456 456M456 144L144 456"/>
+<path d="M190 96L410 504M410 96L190 504M96 190L504 410M504 190L96 410"/>
+</g>
+<circle cx="300" cy="300" r="20" fill="#e7b957"/>
+<g fill="#fff2c9" font-family="serif" font-size="34" text-anchor="middle">
+<text x="300" y="55">♈</text><text x="432" y="92">♉</text><text x="520" y="215">♊</text>
+<text x="520" y="355">♋</text><text x="430" y="505">♌</text><text x="300" y="555">♍</text>
+<text x="168" y="505">♎</text><text x="80" y="355">♏</text><text x="80" y="215">♐</text>
+<text x="168" y="92">♑</text>
+</g></svg>
